@@ -24,6 +24,10 @@ The project includes various notebooks for data processing, image stacking, mode
 - **Description:** This notebook performs mosaicing and preprocessing of SAR imagery from the RCM platform.
 - **Usage:** Execute the notebook to mosaic and preprocess RCM SAR images.
 
+### 5. Algonquin Merged Wetland Classifier.ipynb
+- **Description:** This notebook implements a final wetland classification model using merged wetland class categories to run a simplified wetland classification
+  (8 classes -> 6 classes) using Scikit-Learn's Random Forest Classifier
+- **Usage:** Follow the instructions within the notebook to run the final wetland classification model.
 ## Usage:
 1. Clone the repository to your local machine.
 2. Open the desired notebook using Jupyter Notebook or JupyterLab.
