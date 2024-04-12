@@ -28,6 +28,10 @@ The project includes various notebooks for data processing, image stacking, mode
 - **Description:** This notebook implements a final wetland classification model using merged wetland class categories to run a simplified wetland classification
   (8 classes -> 6 classes) using Scikit-Learn's Random Forest Classifier
 - **Usage:** Follow the instructions within the notebook to run the final wetland classification model.
+
+### 6. Model Accuracy Figures.zip
+- **Description:** This file contains the accuracy figures for all models evaluated in the study. The figures visualize metrics such as precision, recall, F1 score, overall accuracy, AUC, confusion matrices, and covariate importance scores.
+
 ## Usage:
 1. Clone the repository to your local machine.
 2. Open the desired notebook using Jupyter Notebook or JupyterLab.
