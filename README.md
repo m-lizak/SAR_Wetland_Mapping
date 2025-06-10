@@ -10,7 +10,7 @@ The project includes various notebooks for data processing, image stacking, mode
 
 ### 1. Algonquin SAR Random Forest Modeller.ipynb
 - **Description:** This notebook contains the implementation of the Random Forest model for wetland classification using SAR data.
-- **Usage:** Follow the instructions within the notebook to train and evaluate the model.
+- **Usage:** Follow the instructions within the notebook to train and evaluate a RF model.
 
 ### 2. Covariate Image Stacker.ipynb
 - **Description:** This notebook stacks the covariate images extracted from SAR and DEM datasets for model input.
@@ -21,7 +21,7 @@ The project includes various notebooks for data processing, image stacking, mode
 - **Usage:** Run the notebook to preprocess the DEM data.
 
 ### 4. RCM Image Mosaicing and Pre-Processing.ipynb
-- **Description:** This notebook performs mosaicing and preprocessing of SAR imagery from the RCM platform.
+- **Description:** This notebook performs mosaicing and preprocessing of RCM imagery
 - **Usage:** Execute the notebook to mosaic and preprocess RCM SAR images.
 
 ### 5. Algonquin Merged Wetland Classifier.ipynb
@@ -30,7 +30,7 @@ The project includes various notebooks for data processing, image stacking, mode
 - **Usage:** Follow the instructions within the notebook to run the final wetland classification model.
 
 ### 6. Model Accuracy Figures.zip
-- **Description:** This file contains the accuracy figures for all models evaluated in the study. The figures visualize metrics such as precision, recall, F1 score, overall accuracy, AUC, confusion matrices, and covariate importance scores.
+- **Description:** This file contains accuracy figures for all models evaluated in the study. The figures visualize metrics such as precision, recall, F1 score, overall accuracy, AUC, confusion matrices, and covariate importance scores.
 
 ## Usage:
 1. Clone the repository to your local machine.
@@ -39,6 +39,6 @@ The project includes various notebooks for data processing, image stacking, mode
 4. Most of these scripts will probably require some minor tweaking to get running on your machine
 
 ## Contributors:
-- Maciej Lizak
+- Maciej 'Mac' Lizak
 
 ---
